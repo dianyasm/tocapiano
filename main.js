@@ -20,7 +20,7 @@ const synth = new Tone.Sampler({
         B4: "B4.mp3", 
         C5: "C5.mp3"
 	},
-	release: 0.7,
+	release: 1,
 }).toDestination();
 
 let keys = document.querySelectorAll(".key")
@@ -41,7 +41,7 @@ function ctrlTeclado(event){
 }
 
 function playNote(note){
-    synth.triggerAttackRelease(note);
+    synth.triggerAttack(note);
 }
 
 function stopNote(){
