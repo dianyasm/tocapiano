@@ -15,6 +15,6 @@ let keyMap ={
 }
 
 export default function getNoteFromKey(key){
-    let nota = keyMap[key]
-    return nota
+    if(!key) return 
+    return keyMap[key.toLowerCase()]
 }

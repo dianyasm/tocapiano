@@ -1,3 +1,21 @@
+# Aplicación web de piano
+Web de practicas que permite tocar el piano con raton y teclado
+
+## tecnología
+- npm 
+- vite
+- vitest
+
+
+## dependencias
+- tone.js
+- gh-pages
+
+## deploy
+- https://dianyasm.github.io/tocapiano/
+
+## comandos
+
 Descarga la dependencia del proyecto
 ---
 npm install
@@ -22,6 +40,13 @@ Deploy a github
 ---
 npm run deploy
 ---
+
+Lanzar los test
+---
+npm run test
+---
+
+## Tareas
 
 Quiero una página web que permita tocar el piano
 Tendrá tanto teclas blancas como negras
