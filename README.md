@@ -31,10 +31,10 @@ Se podrá tocar tambien con el teclado del ordenador
 - [x] mostrar una web con las teclas blancas (sin sonido)
 - [x] permitir que el usario pulse en teclas y suena
 - [x] añadir las teclas negras
-- [ ] permitir que el usuario toque el piano con el teclado del ordenador
+- [x] permitir que el usuario toque el piano con el teclado del ordenador
 - [x] incorporar sonidos reales
-- [ ] refactorizar
-- [ ] testear
+- [x] refactorizar
+- [x] testear
 - [x] deployar
 
 

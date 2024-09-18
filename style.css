@@ -38,22 +38,12 @@ body{
     font-size: 0.6em;
 }
 
-[data-note="C#4"]{
-    left: 40px;
-}
+[data-note="C#4"]{ left: 40px;}
 
-[data-note="D#4"]{
-    left: 90px;
-}
+[data-note="D#4"]{ left: 90px;}
 
-[data-note="F#4"]{
-    left: 192px;
-}
+[data-note="F#4"]{ left: 192px;}
 
-[data-note="G#4"]{
-    left: 250px;
-}
+[data-note="G#4"]{ left: 250px;}
 
-[data-note="A#4"]{
-    left: 300px;
-}
+[data-note="A#4"]{left: 300px;}
