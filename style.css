@@ -47,3 +47,13 @@ body{
 [data-note="G#4"]{ left: 250px;}
 
 [data-note="A#4"]{left: 300px;}
+
+.key:hover{
+    background-color: #a2c4e6;
+  }
+  .key.active{
+    background-color: #a2c4e6;
+  }
+  .black-key.pressed{
+  background-color: #a2c4e6;
+  }
